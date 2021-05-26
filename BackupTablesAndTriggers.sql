@@ -97,3 +97,5 @@ select * from person_table_update_logs;
 
 update person set firstname='Dad' where personID=7;
 
+
+
